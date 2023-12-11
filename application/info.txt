@@ -1,0 +1,9 @@
+﻿Thank you for installing PasswordOffline! We hope you enjoy the most secure password generator.
+
+To make a selection, type the number of your choice. For example, if you want to generate a password, type in '1' (without the quotation marks). Another example is if you want to shut down you're computer after making a selection, type '5'. If you want to, you can also type it in with the closing bracket at the end, like this: '5)'. This works for any selection you make!
+
+If you want to leave feedback, please email micxsterbusiness@gmail.com and we will tell you how to go foward from there.
+
+Remember to check for new versions of PasswordOffline from our GitHub page at: https://github.com/mx-mic/PasswordOffline/releases
+
+© 2021-2023 MicXSoftware. All rights reserved, do not copy or distribute externally without permission.

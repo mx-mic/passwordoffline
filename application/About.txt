@@ -1,0 +1,14 @@
+Frequently asked questions:
+Q: My antivirus and/or Windows SmartScreen flagged this program as potentially malicious. Is the program actually safe?
+A: Yes, PasswordOffline is safe. The application is designed to never transmit or recieve any data apart from when you finish the 
+setup wizard (this is because it opens up a HTML file with images it has to download from GitHub's usercontent/CDN servers).
+
+Q: Are my generated passwords safe?
+A: Yes, the passwords and passcodes PasswordOffline generates don't go anywhere, and are discarded whenever you make another 
+selection or close the program, so you must use common sense and note them down in 'your' secure place.
+
+Q: I would like to give feedback or request/enquire something, how can I go about doing this?
+A: Just look in the discussion thread for anything related to feedback and requests, or just make a new one! The forum site is: 
+https://github.com/MX-Mic/PasswordOffline/discussions/categories/ideas
+
+If you have any more questions, don't hesitate reach out to me over on my GitHub repository!
